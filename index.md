@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<title>Philippine tech hackers</title>
+<title>Philippine Tech Hackers</title>
 
 <style>
 html,body,iframe{margin:0;padding:0;height:100%;}
